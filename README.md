@@ -31,3 +31,11 @@ This project was developed as part of a **Frontend / Full Stack Developer Intern
 * Timeframe selector feedback
 * Card hover effects
 
+
+## Screen Shots of UI
+
+<img width="1366" height="768" alt="Screenshot (625)" src="https://github.com/user-attachments/assets/5046f8eb-a41c-40af-818a-455c4577ad6f" />
+
+
+<img width="1366" height="768" alt="Screenshot 2026-01-14 160303" src="https://github.com/user-attachments/assets/87eb1973-b974-4226-8d62-ffeb7fa82324" />
+

@@ -3,6 +3,9 @@
 A **pixel-perfect dashboard UI built using HTML, CSS, and JavaScript**, focusing on clean layout, accurate spacing, typography, and smooth UI interactions.
 This project was developed as part of a **Frontend / Full Stack Developer Intern assignment**.
 
+## Live URL
+https://srinivasnikhilreddy.github.io/dashboard-ui/
+
 ## 🔧 Tech Stack
 * HTML5 – semantic, accessible structure
 * CSS3 – Flexbox, Grid, modern layout techniques

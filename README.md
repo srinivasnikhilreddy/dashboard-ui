@@ -37,5 +37,6 @@ This project was developed as part of a **Frontend / Full Stack Developer Intern
 <img width="1366" height="768" alt="Screenshot (625)" src="https://github.com/user-attachments/assets/5046f8eb-a41c-40af-818a-455c4577ad6f" />
 
 
-<img width="1366" height="768" alt="Screenshot 2026-01-14 160303" src="https://github.com/user-attachments/assets/87eb1973-b974-4226-8d62-ffeb7fa82324" />
+<img width="1366" height="768" alt="Screenshot (626)" src="https://github.com/user-attachments/assets/1874bca6-22c4-4da0-b8c7-2a13aff3690f" />
+
 
